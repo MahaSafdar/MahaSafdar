@@ -3,7 +3,8 @@
 Hey 👋  
 I'm Maha, a cybersecurity expert and multi-disciplinary developer with a focus on secure systems, efficient code, and modern web applications. I work at the intersection of security and software, ensuring everything I build or protect is scalable, reliable, and secure.
 
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="450" alt="Code Rain"/>
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="450" alt="Cyber Grid"/>
+
 
 ---
 
