@@ -38,7 +38,7 @@ I'm Maha, a cybersecurity expert and multi-disciplinary developer with a focus o
 ---
 
 ## 🌐 Web Development
-- Frontend: React, Next.js, Vue.js, Tailwind CSS
+- Frontend: React, Next.js, Vue.js, Tailwind CSS, HTML
 - Backend: Node.js, Express, Firebase Functions
 - Security: OAuth2, JWT, HTTPS/TLS, CSP, Helmet.js
 - Deployment: Vercel, Netlify, Nginx, Docker, Firebase Hosting
