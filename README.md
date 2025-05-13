@@ -2,7 +2,7 @@
 
 Hey 👋  
 I'm Maha, a cybersecurity expert and multi-disciplinary developer with a focus on secure systems, efficient code, and modern web applications. I work at the intersection of security and software, ensuring everything I build or protect is scalable, reliable, and secure.
-<img src="https://icons8.com/illustrations/t/code-window/animated--y" width="500" alt="Animated Code Window"/>
+<img src="https://lottiefiles.com/free-animation/programming-NywgvmC6vu" width="500" alt="Animated Code Window"/>
 
 
 
