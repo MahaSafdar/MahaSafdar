@@ -5,8 +5,20 @@ I'm Maha, a cybersecurity expert and multi-disciplinary developer with a focus o
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTljMDd5dzFreWVsOG11NWY1ZTlreGhndW1vZ2RrNmhlMzQyNm1kZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="500" alt="Tech Interface GIF"/>
 
+---
 
-
+## 💻 Software Engineering
+- Programming: Python, Java, JavaScript, C#, Typescript, Kotlin
+- Frameworks: Spring Boot, Spring MVC, Struts, .NET, React
+- API Technologies: RESTful Web Services, JSON, XML
+- Backend Design: RESTful APIs, Microservices, Event-Driven Architecture
+- Databases: MySQL, SQLite
+- DevOps: Docker, GitHub Actions, CI/CD, Linux scripting
+- Version Control & CI/CD: Git
+- Agile Methodologies: Scrum, Kanban, JIRA
+- Security: SSL, OAuth, JWT
+- Testing & QA: Junit, Jest
+- Platforms: Jupyter Notebook, Android Studio, VS Code, Intellij IDEA
 
 ---
 
@@ -26,26 +38,6 @@ I'm Maha, a cybersecurity expert and multi-disciplinary developer with a focus o
 - Languages: Python, Bash, C (RE), YARA, Sigma
 
 ---
-
-## 💻 Software Development
-- Programming: Python, Java, C++, Go, Rust
-- Frameworks: Django, Flask, FastAPI
-- Backend Design: RESTful APIs, Microservices, Event-Driven Architecture
-- Databases: PostgreSQL, MySQL, MongoDB, SQLite
-- DevOps: Docker, GitHub Actions, CI/CD, Linux scripting
-- Testing: Pytest, UnitTest, Integration & Static Code Analysis
-
----
-
-## 🌐 Web Development
-- Frontend: React, Next.js, Vue.js, Tailwind CSS, HTML
-- Backend: Node.js, Express, Firebase Functions
-- Security: OAuth2, JWT, HTTPS/TLS, CSP, Helmet.js
-- Deployment: Vercel, Netlify, Nginx, Docker, Firebase Hosting
-- UI/UX: Figma to Code, Responsive Design, SEO Optimization
-
----
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
