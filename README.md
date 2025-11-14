@@ -1,4 +1,4 @@
-# Cybersecurity | Software Development | Web Development
+# Software Engineering | AI/ML | Cybersecurity 
 
 Hey 👋  
 I'm Maha, a cybersecurity expert and multi-disciplinary developer with a focus on secure systems, efficient code, and modern web applications. I work at the intersection of security and software, ensuring everything I build or protect is scalable, reliable, and secure.
